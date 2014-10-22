@@ -1,0 +1,6 @@
+[submodule "helix"]
+	path = helix
+	url = https://github.com/jayakrishnankk/helix.git
+[submodule "helix-sources"]
+	path = helix-sources
+	url = https://github.com/jayakrishnankk/helix-sources.git
